@@ -1,6 +1,6 @@
 - 👋 ola eu sou @veremeioDelas
 - 👀 eu tenho interesse em pensamento computacional 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ BR-pr-Irati
 - 📫 andre.colesel@escola.pr.gov.br
 <!---
 veremeioDelas/veremeioDelas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
